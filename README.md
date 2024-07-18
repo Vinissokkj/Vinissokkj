@@ -34,8 +34,7 @@
 
 ###
 
-<p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/e66fef3c-62ec-463d-b1fe-86ce4fcc5ee8" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/57bb3c3c-a0a6-4ab2-9290-2c0064507350" alt="Imagem">
 </p>
 
 
