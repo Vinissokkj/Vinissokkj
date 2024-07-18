@@ -1,5 +1,8 @@
 <h2 align="left">Hello World! 👋</h2>
 
+
+<img align="right" height="150" src="https://github.com/user-attachments/assets/d9d7ed8e-4ec4-4e75-a364-1b531f3b6b52"  />
+
 <p>
   Hi 👋, I'm Marcos! A passionate Computer Science student from Universidade Federal Fluminense. Also doing Analysis and Development of Systems using Java at SENAC.
 
@@ -28,15 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vinissokkj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/d9d7ed8e-4ec4-4e75-a364-1b531f3b6b52"  />
 
 ###
-
 
 <p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/465b5b86-84f1-47fb-9bb9-25cd6e662421" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/e66fef3c-62ec-463d-b1fe-86ce4fcc5ee8" alt="Imagem">
 </p>
 
 
