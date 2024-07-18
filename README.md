@@ -32,19 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinissokkj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Vinissokkj/Vinissokkj/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
-
-  <img align="center" src="https://github.com/user-attachments/assets/57bb3c3c-a0a6-4ab2-9290-2c0064507350" alt="Imagem">
-</p>
-
-
 
