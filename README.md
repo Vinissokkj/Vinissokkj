@@ -6,10 +6,8 @@
 <p>
   Hi 👋, I'm Marcos! A Computer Science student at Universidade Federal Fluminense (UFF) and a Mobile Developer.
   
-  <br><br>
   - 🌱 I'm currently focused on building performant cross-platform applications using <b>React Native</b> and the React ecosystem (Next.js).
-  
-  <br><br>
+  - 
   - 🔭 I am looking to hone my skills in scalable mobile architectures, UI/UX optimization, and FinTech solutions.
 </p>
 
