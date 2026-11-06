@@ -4,19 +4,23 @@
 <img align="right" height="150" src="https://github.com/user-attachments/assets/d9d7ed8e-4ec4-4e75-a364-1b531f3b6b52"  />
 
 <p>
-  Hi 👋, I'm Marcos! A passionate Computer Science student from Universidade Federal Fluminense. Also doing Analysis and Development of Systems using Java at SENAC.
-
-  - 🌱 I’m currently studying the basic of programming through the building of cool projects!
-
-  - 🔭 I am looking to hone my skills so that one day I can work with Cyber Security.
+  Hi 👋, I'm Marcos! A Computer Science student at Universidade Federal Fluminense (UFF) and a Mobile Developer.
+  
+  <br><br>
+  - 🌱 I'm currently focused on building performant cross-platform applications using <b>React Native</b> and the React ecosystem (Next.js).
+  
+  <br><br>
+  - 🔭 I am looking to hone my skills in scalable mobile architectures, UI/UX optimization, and FinTech solutions.
 </p>
 
 <details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 19 years old, currently living in Rio de Janeiro, Brazil.
-
-  - ✨ I got into programming because of my friend João Gabriel, at about the age of 12 he told me about this site building thing, but I just thought it was a cool way he made money at the time. Fast forward 6 years, he contacted me on steam and I got amazed by how his life changed because of programming. He inspired me to get into Computer Science at his University and that's what I did! He supports me and is a great inspiration, I'm really thankful for him. 
+ <summary>👨‍💻 More about me & my work</summary>
+  <br>
+  - 💼 I have practical experience developing mobile solutions that integrate hardware features like <b>NFC (NDEF tags)</b> for industrial use cases. 
+  <br><br>
+  - 🔒 <i>Note on my repositories:</i> Most of my recent practical work involved critical infrastructure and was developed under strict NDAs using internal private GitLabs, which is why my public GitHub doesn't reflect my full codebase!
+  <br><br>
+  - ⚡ <b>Tech Stack I enjoy working with:</b> React Native, TypeScript, Next.js, Node.js, and Supabase.
 </details>
 
 <div align="left">
